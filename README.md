@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Raphaël Catarino (@Zareix)
 - 👀 I’m interested in everything related to computer science
-- 💞️ I’m looking to collaborate on open-source projects !
+- 💞️ I’m looking to collaborate more on open-source projects !
 - 📫 How to reach me please visit my portfolio at [raphael-catarino.fr](https://www.raphael-catarino.fr)
