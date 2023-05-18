@@ -5,7 +5,7 @@
 
 💞️ I’m looking to collaborate more on open-source projects !
 
-📫 To reach me please visit my portfolio at [raphael-catarino.fr](https://www.raphael-catarino.fr)
+📫 To reach me please visit my portfolio at [raphael-catarino.fr](https://raphael-catarino.fr)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=zareix&show_icons=true&locale=en&hide=stars" alt="zareix" /></p>
 
