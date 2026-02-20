@@ -20,6 +20,3 @@ jobs:
           config_timezone: Europe/Paris
           plugin_languages: yes
           plugin_languages_ignored: php, css
-          plugin_languages_recent_days: 30
-          plugin_languages_recent_load: 1000
-          plugin_languages_sections: most-used, recently-used
